@@ -1,16 +1,22 @@
 # Basic Knowledge
 1. What is open-source physics?
+
   The OSP is a collection of curriculum resources that engage students in physics, computation, and computer modeling. 
 1. What is its value to physics' teaching?
+
   OSP provides physics teaching a virtual laboratory where students would learn physics by developing, testing, and applying models to explain or predict natural phenomena.
 1. Why need the laboratory to be open-source?
+
   Because of the technical barrier teachers always tend to shy away from computer modeling with traditional programming tools. Paradoxically, OSP's major feature is its open source but its main users don't care that. 
-   
+ 
 1. How would ordinary teachers participate in?
 
 Ordinary teachers would be divided into two types, regular teachers(course teacher) and information technology teachers.
+
 * For the regular teachers
+
   They use curricular material including modules to teach. To teach with the full use of this materials they would create some additional tasks, worksheets, exercises for them. 
+
 * For the modeler
 
   OSP provides several stand-alone applications for physics teaching and student activities. Modelers need following tools to make the modeling cycle easier: Launcher, Tracker, EJS and data tool.
