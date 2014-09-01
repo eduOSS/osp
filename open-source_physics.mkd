@@ -15,12 +15,12 @@
 
 * For the regular teachers
 
-  They use curricular material including modules to teach. To teach with the full use of this materials they would create some additional tasks, worksheets, exercises for them. 
+  They use curricular material including model to teach. To teach with the full use of this materials they would create some additional tasks, worksheets, exercises for them. 
 
 * For the modeler
 
   OSP provides several stand-alone applications for physics teaching and student activities. Modelers need following tools to make the modeling cycle easier: Launcher, Tracker, EJS and data tool.
-  - Launcher is an OSP tool that addresses the problem of how to **distribute** OSP and EJS programs and curricular modules.
+  - Launcher is an OSP tool that addresses the problem of how to **distribute** OSP and EJS programs and curricular model.
   - Tracker is an image and video **analysis** package and modeling tool that is built upon the OSP Java code library.
   - EJS stands for Easy Java Simulations. EJS is an authoring and modeling tool that allows users to **create** Java programs with minimal programming.
   - Data tool is a data **analysis** tool for plotting and fitting data from the laboratory into columns, video analysis, or any other data set organized into columns.
@@ -33,3 +33,4 @@
     - GitHub is a free place to hold its repository, every body would join in especially programmers
   * disadvantages
     - teachers may find it difficult to use. What's more teachers are seldom there, let alone share materials with each other.
+1. How to use the four tools to create and publish a modele
