@@ -11,7 +11,7 @@
  
 1. How would ordinary teachers participate in?
 
-Ordinary teachers would be divided into two types, regular teachers(course teacher) and information technology teachers.
+  Ordinary teachers would be divided into two types, regular teachers(course teacher) and information technology teachers.
 
 * For the regular teachers
 
@@ -25,7 +25,7 @@ Ordinary teachers would be divided into two types, regular teachers(course teach
   - EJS stands for Easy Java Simulations. EJS is an authoring and modeling tool that allows users to **create** Java programs with minimal programming.
   - Data tool is a data **analysis** tool for plotting and fitting data from the laboratory into columns, video analysis, or any other data set organized into columns.
 
-So modelers with no enough programming skill would use EJS to create teaching models; use Tracker and Data tool to analyze image, video and data; use Launcher to distributor what they have created.
+  So modelers with no enough programming skill would use EJS to create teaching models; use Tracker and Data tool to analyze image, video and data; use Launcher to distributor what they have created.
 
 # Further Questions
 1. What if we use GitHub to collect and share ready-to-use curricular material?
